@@ -9,7 +9,7 @@ This project was based on the Rocketseat video that you can find: <a target="_bl
 
 ## :rocket: Technologies
 - [React](https://reactjs.org)
-- [TypesSript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Redux](https://redux.js.org/)
 - [Redux Saga](https://redux-saga.js.org/)
 </div>
