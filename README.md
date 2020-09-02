@@ -8,7 +8,6 @@ This project was based on the Rocketseat video that you can find: <a target="_bl
 <div id="technologies"> 
 
 ## :rocket: Technologies
-This project uses these technologies:
 - [React](https://reactjs.org)
 - [TypesSript](https://www.typescriptlang.org/)
 - [Redux](https://redux.js.org/)
