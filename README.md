@@ -19,7 +19,7 @@ This project was based on the Rocketseat video that you can find: <a target="_bl
 
 ### :memo: Npm
 ```npm
-    npm install
-    npm start
+npm install
+npm start
 ```
 </div>
